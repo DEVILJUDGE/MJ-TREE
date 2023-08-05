@@ -1,0 +1,7 @@
+*.css
+*.css.map
+.sass-cache/
+node_modules/
+package-lock.json 
+.vscode/           
+dist/              # or "build/" or "output/" depending on your setup
