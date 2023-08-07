@@ -2,3 +2,11 @@ body {
   background-color: #eddbc7;
   color: red;
 }
+.top {
+  width: 20%;
+
+  &__img {
+    width: 100%;
+    mix-blend-mode: color-burn;
+  }
+}
