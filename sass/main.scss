@@ -8,5 +8,8 @@ body {
   &__img {
     width: 100%;
     mix-blend-mode: color-burn;
+    @media (max-width: 1200px) {
+      width: 50%;
+    }
   }
 }

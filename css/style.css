@@ -7,3 +7,6 @@ body {
   .top__img {
     width: 100%;
     mix-blend-mode: color-burn; }
+    @media (max-width: 1200px) {
+      .top__img {
+        width: 50%; } }
