@@ -28,12 +28,12 @@ body {
   // display: inline-block;
 }
 .image {
-  width: 10%;
-  // mix-blend-mode: color-burn;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+     width: 24%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    mix-blend-mode: darken;
 }
 
 // .letter {
