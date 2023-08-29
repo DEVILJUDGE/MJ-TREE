@@ -1,6 +1,5 @@
 body {
-  background-color: #eddbc7;
-  color: red; }
+  background-color: #eddbc7; }
 
 .top {
   width: 20%; }
@@ -29,3 +28,15 @@ body {
   left: 50%;
   transform: translate(-50%, -20%);
   mix-blend-mode: darken; }
+
+.name {
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 0.5rem;
+  position: absolute;
+  top: 46px;
+  left: 34%; }
